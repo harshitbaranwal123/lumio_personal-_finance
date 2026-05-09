@@ -2,7 +2,9 @@
 
 A modern full-stack Personal Finance Management application built with the MERN Stack (MongoDB, Express.js, React, Node.js). Lumio helps users track income and expenses, set financial goals, visualize spending patterns, and manage their finances through a premium and responsive dashboard.
 
-![Lumio Banner](./frontend/public/rr-logo.png)
+![Lumio Logo](./frontend/public/lumio-logo.png)
+
+> If your new logo file has a different name, replace `lumio-logo.png` with the exact filename you placed in `frontend/public/`.
 
 ---
 
@@ -72,12 +74,11 @@ lumio_personal_finance/
 │   │   ├── models/
 │   │   └── routes/
 │   └── server.js
-│
 ├── frontend/
 │   ├── src/
 │   │   ├── Pages/
 │   │   ├── components/
 │   │   └── api.js
 │   └── public/
-│
+│       └── lumio-logo.png
 └── README.md
