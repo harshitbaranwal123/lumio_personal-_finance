@@ -1,0 +1,10 @@
+/* App-specific styles - all design system is in styles.css */
+
+#root {
+  width: 100%;
+  min-height: 100vh;
+}
+
+/* Global transition rules live in styles.css (to keep them consistent). */
+
+

@@ -1,0 +1,16 @@
+# Root level ignore
+
+# backend
+personal-finance-backend/node_modules/
+personal-finance-backend/.env
+
+# frontend
+personal-finance-frontend/node_modules/
+personal-finance-frontend/dist/
+
+# logs
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
